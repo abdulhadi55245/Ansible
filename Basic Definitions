@@ -1,0 +1,6 @@
+- 📦 Ansible can be installed using the package manager of your choice, such as apt or brew, making it easily accessible on different operating systems.
+- 🔐 Setting up passwordless authentication between the Ansible server and target server is a prerequisite for smooth communication and execution of tasks.
+- 👨‍💻 Ad hoc commands allow quick execution of single tasks without the need to write a full playbook, making it ideal for simple tasks or troubleshooting.
+- 📝 Ansible playbooks provide a structured way to define multiple tasks, making it easier to manage and execute complex configurations or deployments.
+- 🔄 Using the verbose option with Ansible commands provides detailed information about the execution steps, helping with debugging and understanding the inner workings of Ansible.
+- 🧩 Ansible roles offer a way to structure and modularize playbooks, making them more efficient and manageable, especially for larger and more intricate configurations or deployments.
